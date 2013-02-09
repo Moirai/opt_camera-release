@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "opt_camera")
+set(opt_camera_MAINTAINER "Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>")
+set(opt_camera_DEPRECATED "")
+set(opt_camera_VERSION "0.0.1")
+set(opt_camera_BUILD_DEPENDS "sensor_msgs" "driver_base" "image_proc" "dynamic_reconfigure" "camera_calibration_parsers" "compressed_image_transport" "cv_bridge")
+set(opt_camera_RUN_DEPENDS "sensor_msgs" "driver_base" "image_proc" "dynamic_reconfigure" "camera_calibration_parsers" "compressed_image_transport" "cv_bridge")
+set(opt_camera_BUILDTOOL_DEPENDS "catkin")
