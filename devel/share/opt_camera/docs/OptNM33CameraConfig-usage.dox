@@ -1,0 +1,40 @@
+\subsubsection usage Usage
+\verbatim
+<node name="opt_camera" pkg="opt_camera" type="opt_camera">
+  <param name="autoexposure" type="bool" value="True" />
+  <param name="exposure" type="int" value="500" />
+  <param name="iris" type="int" value="500" />
+  <param name="mode" type="int" value="4" />
+  <param name="brightness" type="int" value="220" />
+  <param name="sharpness" type="int" value="4" />
+  <param name="whitebalance" type="int" value="6500" />
+  <param name="autowhitebalance" type="bool" value="True" />
+  <param name="pan" type="double" value="0.0" />
+  <param name="tilt" type="double" value="0.0" />
+  <param name="roll" type="double" value="0.0" />
+  <param name="zoom" type="double" value="100.0" />
+  <param name="firmwareversion" type="str" value="" />
+  <param name="serialid" type="str" value="" />
+  <param name="flipscreen" type="int" value="0" />
+  <param name="smallhemisphere" type="int" value="1" />
+  <param name="medianfilter" type="bool" value="False" />
+  <param name="jpegquality" type="int" value="75" />
+  <param name="infodisplay" type="bool" value="False" />
+  <param name="capturefps" type="int" value="150" />
+  <param name="actualfps" type="int" value="150" />
+  <param name="lenstype" type="int" value="2" />
+  <param name="camera1_pan" type="int" value="0" />
+  <param name="camera1_tilt" type="int" value="0" />
+  <param name="camera1_roll" type="int" value="0" />
+  <param name="camera1_zoom" type="int" value="0" />
+  <param name="camera2_pan" type="int" value="0" />
+  <param name="camera2_tilt" type="int" value="0" />
+  <param name="camera2_roll" type="int" value="0" />
+  <param name="camera2_zoom" type="int" value="80" />
+  <param name="camera3_pan" type="int" value="0" />
+  <param name="camera3_tilt" type="int" value="0" />
+  <param name="camera3_roll" type="int" value="0" />
+  <param name="camera3_zoom" type="int" value="120" />
+</node>
+\endverbatim
+

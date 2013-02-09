@@ -1,0 +1,6 @@
+Name: opt_camera
+Description: Description of opt_camera
+Version: 0.0.1
+Cflags: -I/home/ysuzuki/moirai-ws/devel/include -I/home/ysuzuki/moirai-ws/src/opt_camera/src
+Libs: -L/home/ysuzuki/moirai-ws/devel/lib -lopt_camera
+Requires: sensor_msgs driver_base image_proc dynamic_reconfigure camera_calibration_parsers compressed_image_transport cv_bridge
