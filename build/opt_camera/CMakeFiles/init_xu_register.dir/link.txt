@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/init_xu_register.dir/src/opt_nm33_uvc/init_xu_register.cpp.o CMakeFiles/init_xu_register.dir/src/opt_nm33_uvc/opt_nm33_uvc.cpp.o  -o /home/ysuzuki/moirai-ws/devel/lib/opt_camera/init_xu_register -rdynamic 
