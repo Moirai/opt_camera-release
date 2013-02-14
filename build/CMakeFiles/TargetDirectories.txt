@@ -1,0 +1,11 @@
+/home/ysuzuki/moirai-ws/build/CMakeFiles/clean_test_results.dir
+/home/ysuzuki/moirai-ws/build/CMakeFiles/doxygen.dir
+/home/ysuzuki/moirai-ws/build/gtest/CMakeFiles/gtest.dir
+/home/ysuzuki/moirai-ws/build/gtest/CMakeFiles/gtest_main.dir
+/home/ysuzuki/moirai-ws/build/opt_camera/CMakeFiles/init_xu_register.dir
+/home/ysuzuki/moirai-ws/build/opt_camera/CMakeFiles/init_xu_register_non_std_uvc.dir
+/home/ysuzuki/moirai-ws/build/opt_camera/CMakeFiles/nm33_node.dir
+/home/ysuzuki/moirai-ws/build/opt_camera/CMakeFiles/nm33_node_non_std_uvc.dir
+/home/ysuzuki/moirai-ws/build/opt_camera/CMakeFiles/opt_camera_gencfg.dir
+/home/ysuzuki/moirai-ws/build/CMakeFiles/run_tests.dir
+/home/ysuzuki/moirai-ws/build/CMakeFiles/tests.dir

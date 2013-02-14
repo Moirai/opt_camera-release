@@ -1,0 +1,7 @@
+CATKIN_PACKAGE_PREFIX=""
+PROJECT_ABSOLUTE_INCLUDE_DIRS="/home/ysuzuki/moirai-ws/install/include"
+PROJECT_CATKIN_DEPENDS="sensor_msgs;driver_base;image_proc;dynamic_reconfigure;camera_calibration_parsers;compressed_image_transport;cv_bridge"
+PKG_CONFIG_LIBRARIES_WITH_PREFIX="-lopt_camera"
+PROJECT_NAME="opt_camera"
+PROJECT_SPACE_DIR="/home/ysuzuki/moirai-ws/install"
+PROJECT_VERSION="0.0.1"
