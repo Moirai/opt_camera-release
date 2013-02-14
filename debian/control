@@ -1,0 +1,12 @@
+Source: ros-groovy-opt-camera
+Section: misc
+Priority: extra
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Build-Depends: debhelper (>= 7.0.50~), ros-groovy-dynamic-reconfigure,ros-groovy-image-proc,ros-groovy-compressed-image-transport,ros-groovy-sensor-msgs,ros-groovy-driver-base,ros-groovy-camera-calibration-parsers,ros-groovy-catkin,ros-groovy-cv-bridge
+Homepage: http://ros.org/wiki/opt_camera
+Standards-Version: 3.9.2
+
+Package: ros-groovy-opt-camera
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-dynamic-reconfigure,ros-groovy-image-proc,ros-groovy-compressed-image-transport,ros-groovy-sensor-msgs,ros-groovy-driver-base,ros-groovy-camera-calibration-parsers,ros-groovy-cv-bridge
+Description: opt_camera
